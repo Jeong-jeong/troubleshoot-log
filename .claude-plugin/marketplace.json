@@ -11,7 +11,7 @@
     {
       "name": "troubleshoot-log",
       "source": {
-        "type": "github",
+        "source": "github",
         "repo": "Jeong-jeong/troubleshoot-log"
       },
       "description": "Document troubleshooting sessions in PHARL format (Problem-Hypothesis-Attempt-Result-Lesson) and upload to Notion",
