@@ -1,0 +1,10 @@
+{
+  "name": "troubleshoot-log",
+  "description": "Document troubleshooting sessions in PHARL format (Problem-Hypothesis-Attempt-Result-Lesson) and upload to Notion",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jeong-jeong"
+  },
+  "keywords": ["troubleshoot", "pharl", "notion", "debug", "logging"],
+  "repository": "https://github.com/Jeong-jeong/troubleshoot-log"
+}
