@@ -1,0 +1,24 @@
+{
+  "name": "troubleshoot-log-marketplace",
+  "owner": {
+    "name": "Jeong-jeong",
+    "email": ""
+  },
+  "metadata": {
+    "description": "Troubleshoot Log plugin marketplace"
+  },
+  "plugins": [
+    {
+      "name": "troubleshoot-log",
+      "source": ".",
+      "description": "Document troubleshooting sessions in PHARL format (Problem-Hypothesis-Attempt-Result-Lesson) and upload to Notion",
+      "version": "1.0.0",
+      "author": {
+        "name": "Jeong-jeong"
+      },
+      "repository": "https://github.com/Jeong-jeong/troubleshoot-log",
+      "license": "MIT",
+      "keywords": ["troubleshoot", "pharl", "notion", "debug", "logging"]
+    }
+  ]
+}
