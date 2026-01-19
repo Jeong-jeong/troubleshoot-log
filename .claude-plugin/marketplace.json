@@ -10,7 +10,10 @@
   "plugins": [
     {
       "name": "troubleshoot-log",
-      "source": ".",
+      "source": {
+        "type": "github",
+        "repo": "Jeong-jeong/troubleshoot-log"
+      },
       "description": "Document troubleshooting sessions in PHARL format (Problem-Hypothesis-Attempt-Result-Lesson) and upload to Notion",
       "version": "1.0.0",
       "author": {
